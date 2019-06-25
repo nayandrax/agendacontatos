@@ -1,0 +1,8 @@
+.corpo{
+    background-color: white;
+    padding:20px;
+    list-style:none;
+    overflow:auto;
+    margin:0 auto;
+    margin-top: 80px;
+}
